@@ -1,26 +1,20 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="flex-grow: 1;">
-    <h1 style="font-size: 24px;">Hello earth and its inhabitants 🌎</h1>
+  <div align=center>
+        <h1><b>Hello earth and its inhabitants 🌎</b></h1>
+        <h2><b>👞 Please clean your shoes before entering my world. </b></h1>
   </div>
-</div>
+  
+<p align=center>
+  <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="250">
+</p>
 
 <div style="display: flex; align-items: center;">
-  <div style="flex-grow: 1;">
-    <h2 style="font-size: 24px;">👨‍🎓 Student at 42 Porto</h1>
-    <ul>
-      <li>🚀 Passionate about programming and challenges.</li>
-      <li>📚 Learning at 42 school.</li>
-      <li>💻 Exploring the world of code.</li>
-      <li>🤖 Building amazing projects.</li>
-    </ul>
-  <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="200">
-  </div>
-</div>
-
-
-
-
-  
+        <h1 style="font-size: 24px;">👨‍🎓 Student at 42 Porto</h1>
+        <ul>
+            <li>🚀 Passionate about programming and challenges.</li>
+            <li>📚 Learning at 42 school.</li>
+            <li>💻 Exploring the world of code.</li>
+            <li>🤖 Building amazing projects.</li>
+        </ul>
 </div>
 
 # ▪️ Github stats 📊
