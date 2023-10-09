@@ -1,16 +1,71 @@
-### Hi there 👋
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="flex-grow: 1;">
+    <h1 style="font-size: 24px;">Hello earth and its inhabitants 🌎</h1>
+  </div>
+</div>
 
-<!--
-**Nebbur/Nebbur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="display: flex; align-items: center;">
+  <div style="flex-grow: 1;">
+    <h2 style="font-size: 24px;">👨‍🎓 Student at 42 Porto</h1>
+    <ul>
+      <li>🚀 Passionate about programming and challenges.</li>
+      <li>📚 Learning at 42 school.</li>
+      <li>💻 Exploring the world of code.</li>
+      <li>🤖 Building amazing projects.</li>
+    </ul>
+  <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="200">
+  </div>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+  
+</div>
+
+# ▪️ Github stats 📊
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github-readme-stats.vercel.app/api?username=nebbur&show_icons=true&theme=github_dark" width="50%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nebbur&layout=compact&theme=github_dark" width="45%">
+</div>
+
+
+##
+
+<p align="left">
+</p>
+
+<h1 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="50" height="50"/> </a> </p>
+
+##
+
+# Personal projects 👨🏻‍💻 
+- # [📚 Mini-RPG 📚](https://github.com/nebbur/Mini-rpg)
+<br>
+
+# 42 Cursus progress 👨🏻‍💻 
+
+- # [📚 Libft 📚](https://github.com/nebbur/Libft)
+<br>
+
+- # [🖥 Born2beroot 🖥](https://github.com/nebbur/Born2beroot-Tutorial)
+<br>
+
+- # [📝 Printf 📝](https://github.com/nebbur/Printf)
+<br>
+
+- # [📖 Get_Next_Line 📖](https://github.com/nebbur/Get_next_line)
+<br>
+
+- # [🔢 Push_swap 🔢](https://github.com/nebbur/Push-Swap)
+<br>
+
+- # [🎮 So_long 🎮](https://github.com/nebbur)
+  ► Still working on it!
+<br>
+
+ - # [🍴 Philosophers 🍴](https://github.com/nebbur)
+   ► Still working on it!
+<br>
