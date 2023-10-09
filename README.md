@@ -56,10 +56,10 @@
 - # [🔢 Push_swap 🔢](https://github.com/nebbur/Push-Swap)
 <br>
 
-- # [🎮 So_long 🎮](https://github.com/nebbur)
+- # [🎮 So_long 🎮](https://github.com/nebbur/So_long)
   ► Still working on it!
 <br>
 
- - # [🍴 Philosophers 🍴](https://github.com/nebbur)
+ - # [🍴 Philosophers 🍴](https://github.com/nebbur/Philosophers)
    ► Still working on it!
 <br>
