@@ -1,5 +1,5 @@
   <div align=center>
-        <h1><b>Hello earth and its inhabitants 🌎</b></h1>
+        <h1><b>Hello Earth and its inhabitants 🌎</b></h1>
         <h2><b>👞 Please clean your shoes before entering my world. </b></h1>
   </div>
   
